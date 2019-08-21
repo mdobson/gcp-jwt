@@ -1,0 +1,16 @@
+{
+  "name": "gcp-jwt",
+  "version": "0.0.1",
+  "description": "Get a valid GCP JWT",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^3.0.0",
+    "gtoken": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
